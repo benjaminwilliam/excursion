@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+  font-family: Verdana;
+}
+h1{
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: : center;
+}
+
+.download{
+  font-size: 16px;
+  font-color: aquamarine;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#caption{
+  font-size: 21px;
+  color: gray;
+}
